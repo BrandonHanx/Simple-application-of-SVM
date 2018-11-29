@@ -2,7 +2,7 @@
 
 ==Thanks to Faruto enhancement toolkit==
 
-==Thanks to http://www.ilovematlab.cn/thread-48175-1-1.html==
+== Thanks to http://www.ilovematlab.cn/thread-48175-1-1.html ==
 
 *Install libsvm and Faruto toolkit before running the program*
 
